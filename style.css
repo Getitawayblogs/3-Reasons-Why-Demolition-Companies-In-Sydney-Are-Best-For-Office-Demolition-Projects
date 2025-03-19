@@ -113,10 +113,10 @@ nav.nav-menu {
     color: #000000;
   }
   a {
-    color: #4985e6;
+    color: #e92d32;
   }
   a:hover{
-    color: #ffffff;
+    color: #000000;
   }
   section {
     margin-bottom: 20px;
@@ -166,7 +166,7 @@ nav.nav-menu {
     color: #000000;
   }
   h2 {
-    font-size: 40px;
+    font-size: 30px;
     margin-top: 30px;
     margin-bottom: 30px;
     margin-left: 50px;
@@ -180,7 +180,7 @@ nav.nav-menu {
    padding-right: 15px;
    margin-left: 50px;
    margin-right: 40px;
-   color: #0071dc;
+   color: #000000;
   }
   h4 {
     font-size: 20px;
